@@ -17,7 +17,8 @@ FEATURES:
 
 *** Added list of task to be display on the bottom as a list view
 
-*** The list of task will be allow to check and uncheck the task based on their status of completion (which means it will get strikeout when it's get completed)
+*** The list of task will be allow to check and uncheck the task based on their status of completion 
+    (which means it will get strikeout when it's get completed)
 
 *** Each list taskItem will have edit and delete option to manage 
 
